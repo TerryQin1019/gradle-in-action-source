@@ -5,6 +5,7 @@
 </kbd>
 
 ## Building the code
+##
 
 The source code is organized into individual chapters. Chapter 1 contains Ant and Maven build scripts. Please refer to the build tool's online manual for instructions to install the runtime and execute the build script. You can find more information here:
 
